@@ -1,0 +1,2 @@
+Visit the link given below to acces the blog.
+https://harshkhatriblog.blogspot.com/2019/12/making-snake-game-in-pygame.html
